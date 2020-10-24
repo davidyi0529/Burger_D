@@ -12,12 +12,12 @@
 <br />
 <br />
 
-### Link to the App Demo
-- https://github.com/davidyi0529/Burger_D
+### Link to the Deployed App
+- https://burger-d-102320.herokuapp.com/
 
 <br />
 
-Employee-Tracker_D is an app that lets users input the names of burgers they'd like to eat.
+Burger_D is an app that lets users input the names of burgers they'd like to eat.
 
 <br />
 
