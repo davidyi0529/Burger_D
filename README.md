@@ -21,21 +21,9 @@ Burger_D is an app that lets users input the names of burgers they'd like to eat
 
 <br />
 
-### Screenshot of initialized app:
+### Screenshot of application:
 
-<img src="" width="800" height="600">
-
-### Screenshot of initialized app:
-
-<img src="" width="800" height="600">
-
-<br />
-<br />
-
-
-### Demo of app:
-
-Coming Soon!!!
+<img src="https://github.com/davidyi0529/Burger_D/blob/main/public/assets/images/Mainpage.png?raw=true" width="800" height="600">
 
 <br />
 <br />
@@ -126,6 +114,7 @@ The following were used for this project.
 - `MySQL`
 - `Express`
 - `Express-Handlebars`
+- `Bootstrap`
 
 <br />
 <br />
